@@ -1,3 +1,5 @@
+wget https://github.com/MustafaDoD/catty/blob/main/amonlyacat.py
+git clone RSCALE
+cd RSCALE
 pip3 install --upgrade pip
-pip3 install -U -r requirements.txt
 python3 amonlyacat.py
