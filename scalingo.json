@@ -2,7 +2,7 @@
   "name": "cat-bot",
   "buildpacks": [
     {
-      "url": "python"
+      "url": "https://github.com/scalingo/python-buildpack"
     }
   ]
 }
