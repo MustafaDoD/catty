@@ -2,9 +2,8 @@
     "name": "cute",
     "description": "cat",
     "logo": "https://graph.org/file/5d3e657e910057f03a8aa.jpg",
-    "addons": [""],
     "keywords": ["python","ai","application","web","gunicorn","flask","scalingo","port:8080","flask-app","app","webapp"],
     "repository": "https://github.com/Repthon-Arabic/B",
     "website": "https://baqir-flask.scalingo.io",
-    "stack": "container",
+    "stack": "container"
 }
