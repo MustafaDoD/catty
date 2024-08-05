@@ -1,2 +1,1 @@
-web: python app.py
-worker: bash repub
+worker: python3 amonlyacat.py
