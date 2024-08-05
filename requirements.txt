@@ -1,5 +1,2 @@
-gunicorn
-flask
-flask_restful
-requests
-python-telegram-bot
+python-telegram-bot==20.0
+python-dotenv==1.0.0
